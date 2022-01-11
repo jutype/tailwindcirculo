@@ -11,7 +11,7 @@ const Principal = () => {
             <picture className="w-16 md:w-32 lg:w-auto  ">
                  <source srcSet="" type="image/avif" />
                  <source srcSet="" type="image/webp" />
-                 <img loading="lazy" src="/img/header1.jpg" alt="Curso de Magia"  />
+                 <img loading="lazy" src="" />
               </picture>
         </div>
     )

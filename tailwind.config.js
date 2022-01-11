@@ -13,6 +13,8 @@ module.exports = {
         'cartas': "url('/img/slides/cartas.jpg')",
       }
     },
-    plugins: [],
+    plugins: [
+      require('tailwindcss-textshadow')
+    ]
   };
   
